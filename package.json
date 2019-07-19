@@ -1,15 +1,13 @@
 {
   "name": "atom-mentor",
   "main": "./lib/mentor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "When you stop coding, Mentor appears and inspires you in Atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/iwamatsu0430/atom-mentor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
