@@ -4,6 +4,10 @@ When you stop coding, Mentor appears and inspires you in Atom.
 
 If you inspired, click outside of video.
 
+![Mentor](./assets/screenshot.gif)
+
+Also, you can change subtitles yourself.
+
 ![Mentor](./assets/screenshot.png)
 
 # respect
