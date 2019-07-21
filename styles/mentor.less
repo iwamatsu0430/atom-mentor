@@ -1,19 +1,28 @@
 @import "ui-variables";
 
-.mentor {
+.mentor-background {
+  position: fixed;
+  z-index: -1;
+}
+
+.mentor-foreground {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   display: flex !important;
   z-index: -1;
 
   > iframe {
-    width: 80%;
-    height: 80%;
+    height: 90%;
+    width: 90%;
+  }
+
+  > canvas {
+    height: 100%;
   }
 }
 
